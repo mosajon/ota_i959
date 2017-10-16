@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ROM>
   <RomName>LineageOS 14.1 - ja3gduosctc</RomName>
-  <VersionName>lineage-14.1-20171014-UNOFFICIAL-Mosajon-ja3gduosctc.zip</VersionName>
-  <VersionNumber type="integer">20171014</VersionNumber>
-  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/QTyvx5e08RzZ93g/download</DirectUrl>
+  <VersionName>lineage-14.1-20171016-UNOFFICIAL-Mosajon-ja3gduosctc.zip</VersionName>
+  <VersionNumber type="integer">20171016</VersionNumber>
+  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/Ehq47fY0x8mrbnk/download</DirectUrl>
   <HttpUrl nil="true"/>
   <Android>7.1.2</Android>
   <CheckMD5 nil="true"/>
-  <CheckMD5>f46acc05bb73282cf93a2f1dd12c8441</CheckMD5>
-  <FileSize type="integer">358793263</FileSize>
+  <CheckMD5>4a1b509f0866b09feb8da20d5bd7eaae</CheckMD5>
+  <FileSize type="integer">358808958</FileSize>
   <Developer>Mosajon</Developer>
   <WebsiteURL>http://bbs.gfan.com/android-9161541-1-1.html</WebsiteURL>
   <DonateURL>http://weibo.com/mosajon</DonateURL>
-  <Changelog>访问gfan.com论坛链接查看更改日志。</Changelog>
+  <Changelog>1、访问gfan.com论坛链接查看更改日志。\n2、紧急修复，声音移植已回退20171006版本，录像、录音正常。、n3、实现通话录音功能。</Changelog>
 </ROM>
 
