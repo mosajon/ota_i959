@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ROM>
   <RomName>LineageOS 14.1 - ja3gduosctc</RomName>
-  <VersionName>lineage-14.1-20171023-UNOFFICIAL-Mosajon-ja3gduosctc.zip</VersionName>
-  <VersionNumber type="integer">20171023</VersionNumber>
-  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/Q9E2xPhnhDSUmmN/download</DirectUrl>
+  <VersionName>lineage-14.1-20171027-UNOFFICIAL-Mosajon-ja3gduosctc.zip</VersionName>
+  <VersionNumber type="integer">20171027</VersionNumber>
+  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/LD3QTVKd0ooV1uL/download</DirectUrl>
   <HttpUrl nil="true"/>
   <Android>7.1.2</Android>
   <CheckMD5 nil="true"/>
-  <CheckMD5>53b462d97feb267c459c39cebc90f124</CheckMD5>
-  <FileSize type="integer">358845719</FileSize>
+  <CheckMD5>6bb87e941991d763d67b51d726a2c14f</CheckMD5>
+  <FileSize type="integer">356359141</FileSize>
   <Developer>Mosajon</Developer>
   <WebsiteURL>http://bbs.gfan.com/android-9161541-1-1.html</WebsiteURL>
   <DonateURL>http://weibo.com/mosajon</DonateURL>
