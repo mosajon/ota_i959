@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ROM>
   <RomName>LineageOS 14.1 - ja3gduosctc</RomName>
-  <VersionName>lineage-14.1-20171027-UNOFFICIAL-Mosajon-ja3gduosctc.zip</VersionName>
-  <VersionNumber type="integer">20171027</VersionNumber>
-  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/LD3QTVKd0ooV1uL/download</DirectUrl>
+  <VersionName>lineage-14.1-20171101-UNOFFICIAL-Mosajon-ja3gduosctc.zip</VersionName>
+  <VersionNumber type="integer">20171101</VersionNumber>
+  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/CFkOnOqUyumYIXV/download</DirectUrl>
   <HttpUrl nil="true"/>
   <Android>7.1.2</Android>
   <CheckMD5 nil="true"/>
-  <CheckMD5>6bb87e941991d763d67b51d726a2c14f</CheckMD5>
-  <FileSize type="integer">356359141</FileSize>
+  <CheckMD5>dd26a6c1c68bc5e7c32316f105615600</CheckMD5>
+  <FileSize type="integer">429240141</FileSize>
   <Developer>Mosajon</Developer>
   <WebsiteURL>http://bbs.gfan.com/android-9161541-1-1.html</WebsiteURL>
   <DonateURL>http://weibo.com/mosajon</DonateURL>
-  <Changelog>访问gfan.com论坛链接查看更改日志。</Changelog>
+  <Changelog>1、访问gfan.com论坛链接查看更改日志。2、重要修复：实现蓝牙媒体音频。</Changelog>
 </ROM>
 
