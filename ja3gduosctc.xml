@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ROM>
+  <RomName>SudaMod 71.2 - ja3gduosctc</RomName>
+  <VersionName>sudamod-71.2-201712030319-UNOFFICIAL-ja3gduosctc.zip</VersionName>
+  <VersionNumber type="integer">20171203</VersionNumber>
+  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/6gbvGd1d3r0JsR6/download</DirectUrl>
+  <HttpUrl nil="true"/>
+  <Android>7.1.2</Android>
+  <CheckMD5 nil="true"/>
+  <CheckMD5>ab7f5fbb0c24738b1a91781c7f1386e4</CheckMD5>
+  <FileSize type="integer">416057662</FileSize>
+  <Developer>Mosajon</Developer>
+  <WebsiteURL>http://bbs.gfan.com/android-9161541-1-1.html</WebsiteURL>
+  <DonateURL>http://weibo.com/mosajon</DonateURL>
+  <Changelog>访问gfan.com论坛链接查看更改日志。</Changelog>
+</ROM>
+
