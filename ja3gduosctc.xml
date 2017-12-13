@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ROM>
+  <RomName>LineageOS 14.1(SudaMod) - ja3gduosctc</RomName>
+  <VersionName>lineage-14.1-20171213-UNOFFICIAL-SudaMod-ja3gduosctc.zip</VersionName>
+  <VersionNumber type="integer">20171213</VersionNumber>
+  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/qKzI7Z4ngXcokMz/download</DirectUrl>
+  <HttpUrl nil="true"/>
+  <Android>7.1.2</Android>
+  <CheckMD5 nil="true"/>
+  <CheckMD5>675359a99221f7101f5d13af48561980</CheckMD5>
+  <FileSize type="integer">405241009</FileSize>
+  <Developer>Mosajon</Developer>
+  <WebsiteURL>http://bbs.gfan.com/android-9161541-1-1.html</WebsiteURL>
+  <DonateURL>http://weibo.com/mosajon</DonateURL>
+  <Changelog>1、访问gfan.com论坛链接查看更改日志。2、集成SudaMod3.1农历、状态栏网速动态。</Changelog>
+</ROM>
+
