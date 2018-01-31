@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ROM>
   <RomName>LineageOS 14.1 - ja3gduosctc</RomName>
-  <VersionName>lineage-14.1-20171231-UNOFFICIAL-Mosajon-ja3gduosctc.zip</VersionName>
-  <VersionNumber type="integer">20171231</VersionNumber>
-  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/vAwHu6i8IE5Ev7L/download</DirectUrl>
+  <VersionName>lineage-14.1-20180131-UNOFFICIAL-Mosajon-ja3gduosctc.zip</VersionName>
+  <VersionNumber type="integer">20180131</VersionNumber>
+  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/u7MvqWStHvx2T0z/download</DirectUrl>
   <HttpUrl nil="true"/>
   <Android>7.1.2</Android>
   <CheckMD5 nil="true"/>
-  <CheckMD5>d28b7bf67baacb237377256c4dc62103</CheckMD5>
-  <FileSize type="integer">363940815</FileSize>
+  <CheckMD5>2c65c5efb8915e8838aafc299fbbdccc</CheckMD5>
+  <FileSize type="integer">364991231</FileSize>
   <Developer>Mosajon</Developer>
   <WebsiteURL>http://bbs.gfan.com/android-9161541-1-1.html</WebsiteURL>
   <DonateURL>http://weibo.com/mosajon</DonateURL>
-  <Changelog>1、访问gfan.com论坛链接查看更改日志。2、添加模块LunarInfoProvider.apk，实现LineageOS14.1原生日历支持农历。</Changelog>
+  <Changelog>1、访问gfan.com论坛链接查看更改日志。2、每月更新。</Changelog>
 </ROM>
 
