@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ROM>
   <RomName>LineageOS 14.1 - ja3gduosctc</RomName>
-  <VersionName>lineage-14.1-20180302-UNOFFICIAL-Mosajon-ja3gduosctc.zip</VersionName>
-  <VersionNumber type="integer">20180302</VersionNumber>
-  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/8rs7z5MRW3IsIl7/download</DirectUrl>
+  <VersionName>lineage-14.1-20180428-UNOFFICIAL-Mosajon-ja3gduosctc.zip</VersionName>
+  <VersionNumber type="integer">20180428</VersionNumber>
+  <DirectUrl>http://58.218.182.234:90/owncloud/index.php/s/BQiRYsG61cO696R/download</DirectUrl>
   <HttpUrl nil="true"/>
   <Android>7.1.2</Android>
   <CheckMD5 nil="true"/>
-  <CheckMD5>ac38d5f435abcf3fed1f739e935432b4</CheckMD5>
-  <FileSize type="integer">365337605</FileSize>
+  <CheckMD5>76aa1d5e03b91d8748df08cd196d5745</CheckMD5>
+  <FileSize type="integer">364574998</FileSize>
   <Developer>Mosajon</Developer>
   <WebsiteURL>http://bbs.gfan.com/android-9161541-1-1.html</WebsiteURL>
   <DonateURL>http://weibo.com/mosajon</DonateURL>
-  <Changelog>1、访问gfan.com论坛链接查看更改日志。2、每月更新。</Changelog>
+  <Changelog>1、访问gfan.com论坛链接查看更改日志。2、每月更新。3、回退到20180428版本，GSM通话问题修复后，将继续更新。</Changelog>
 </ROM>
 
